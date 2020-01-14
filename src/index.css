@@ -1,3 +1,6 @@
 body{
     background-color: aquamarine;
 }
+::placeholder{
+    color: #999999;
+}
